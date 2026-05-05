@@ -54,12 +54,8 @@
 
 <h5 align="center">My activities:</h5>
 
-## My Contribution Graph
+###
 
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vtniscoding/vtniscoding/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vtniscoding/vtniscoding/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/vtniscoding/vtniscoding/output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/vtniscoding/vtniscoding/output/snake.svg" alt="Snake animation" />
 
 ###
