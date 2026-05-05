@@ -14,7 +14,7 @@
 
 ###
 
-<h5 align="center">Contacts me:</h5>
+<h3 align="center">Contact me:</h3>
 
 ###
 
@@ -34,9 +34,11 @@
 
 ###
 
-<h5 align="center">Most used for my projects:</h5>
+<h3 align="center">Most used for my projects:</h3>
 
 ###
+
+<br clear="both">
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="35" alt="csharp logo"  />
@@ -56,7 +58,7 @@
 
 ###
 
-<h5 align="center">My activities:</h5>
+<h3 align="center">My activities:</h3>
 
 ###
 
